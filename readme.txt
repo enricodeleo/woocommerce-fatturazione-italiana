@@ -1,17 +1,17 @@
-=== Plugin Name ===
+=== WooCommerce P.IVA e Codice Fiscale per Italia ===
 Contributors: dot4all, enricodeleo
 Donate link: https://dot4all.it/prodotto/plugin-woocommerce-p-iva-e-codice-fiscale-per-italia-pro/
 Tags: woocommerce, e-commerce, partita iva, codice fiscale, woo, fattura PDF, ricevuta PDF, WooCommerce PDF, Woocommerce PDF Invoices & Packing Slips, Fattura elettronica, XML, Fatturazione elettronica, dot4all, HPOS
 Requires at least: 3.0.1
-Requires PHP: 7
+Requires PHP: 7.0
 Tested up to: 6.6.1
 Requires WooCommerce at least: 3.5
 Tested WooCommerce up to: 8.6
 Stable tag: 2.2.0
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Il plugin che ti permette di rendere WooCommerce adatto al mercato italiano con l'inserimento del C.F. e della Partita IVA
+Rendi WooCommerce compatibile con il mercato italiano aggiungendo campi per Codice Fiscale, Partita IVA e Fatturazione Elettronica.
 
 == Description ==
 

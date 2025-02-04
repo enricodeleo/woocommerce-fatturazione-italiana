@@ -1,20 +1,20 @@
 /**
- * Plugin Name: WooCommerce P.IVA e Codice Fiscale per Italia (HPOS Compatible)
- * Plugin URI: https://github.com/enricodeleo/woocommerce-piva-cf-invoice-ita
- * Description: Il plugin che rende compatibile WooCommerce per il mercato italiano, con supporto HPOS.
+ * Plugin Name: WooCommerce P.IVA e Codice Fiscale per Italia
+ * Plugin URI: https://wordpress.org/plugins/woocommerce-piva-cf-invoice-ita/
+ * Description: Rendi WooCommerce compatibile con il mercato italiano aggiungendo campi per Codice Fiscale, Partita IVA e Fatturazione Elettronica.
  * Version: 2.2.0
- * Author: dot4all, Enrico Deleo
- * Author URI: https://enricodeleo.com
- * Original Author: dot4all
- * Original Author URI: https://dot4all.it
- * License: GPLv2 or later
- * License URI: https://www.opensource.org/licenses/gpl-license.php
- * Text Domain: woocommerce-piva-cf-invoice-ita-pro
- * Domain Path: /languages
  * Requires at least: 3.0.1
  * Requires PHP: 7.0
+ * Author: dot4all, Enrico Deleo
+ * Author URI: https://dot4all.it
+ * License: GPLv3
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ * Text Domain: woocommerce-piva-cf-invoice-ita-pro
+ * Domain Path: /languages
  * WC requires at least: 3.5
  * WC tested up to: 8.6
+ * 
+ * @package WooCommerce_PIVA_CF_Invoice_ITA
  *
  * Credits & Copyrights:
  * - Original plugin by dot4all (https://dot4all.it)
