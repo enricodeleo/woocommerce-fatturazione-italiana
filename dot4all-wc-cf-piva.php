@@ -11,7 +11,7 @@
  * Author URI: https://dot4all.it
  * License: GPLv3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
- * Text Domain: woocommerce-piva-cf-invoice-ita-pro
+ * Text Domain: woocommerce-fatturazione-italiana
  * Domain Path: /languages
  * WC requires at least: 3.5
  * WC tested up to: 8.6
@@ -27,7 +27,7 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 if ( !class_exists( 'WC_Piva_Cf_Invoice_Ita' ) ) :
-define('WCPIVACF_IT_DOMAIN', 'woocommerce-piva-cf-invoice-ita-pro');
+define('WCPIVACF_IT_DOMAIN', 'woocommerce-fatturazione-italiana');
 
 class WC_Piva_Cf_Invoice_Ita {
 	public $plugin_basename;
@@ -116,7 +116,7 @@ class WC_Piva_Cf_Invoice_Ita {
 
 	public function check_wc( $fields ) {
 		$class = "error";
-		$message = sprintf( __( 'WooCommerce P.IVA e Codice Fiscale per Italia requires %sWooCommerce%s to be installed and activated!' , WCPIVACF_IT_DOMAIN ), '<a href="https://wordpress.org/plugins/woocommerce/">', '</a>' );
+		$message = sprintf( __( 'Woocommerce Fatturazione Italiana requires %sWooCommerce%s to be installed and activated!' , WCPIVACF_IT_DOMAIN ), '<a href="https://wordpress.org/plugins/woocommerce/">', '</a>' );
 		echo"<div class=\"$class\"> <p>$message</p></div>";
 	}
 
