@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Plugin Name: WooCommerce Fatturazione Italiana
  * Plugin URI: https://wordpress.org/plugins/woocommerce-piva-cf-invoice-ita/
@@ -13,7 +15,7 @@
  * Domain Path: /languages
  * WC requires at least: 3.5
  * WC tested up to: 8.6
- * 
+ *
  * @package WooCommerce_PIVA_CF_Invoice_ITA
  *
  * Credits & Copyrights:
