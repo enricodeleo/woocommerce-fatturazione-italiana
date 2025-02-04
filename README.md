@@ -1,4 +1,4 @@
-# WooCommerce P.IVA e Codice Fiscale per Italia (HPOS Compatible)
+# WooCommerce Fatturazione Italiana (HPOS Compatible)
 
 Fork del plugin "WooCommerce P.IVA e Codice Fiscale per Italia" di dot4all, modificato per supportare HPOS (High-Performance Order Storage) di WooCommerce.
 
