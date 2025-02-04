@@ -1,6 +1,6 @@
 === WooCommerce Fatturazione Italiana ===
-Contributors: dot4all, enricodeleo
-Donate link: https://dot4all.it/prodotto/plugin-woocommerce-p-iva-e-codice-fiscale-per-italia-pro/
+Contributors: enricodeleo, dot4all
+Donate link: https://enricodeleo.com/
 Tags: woocommerce, e-commerce, partita iva, codice fiscale, woo, fattura PDF, ricevuta PDF, WooCommerce PDF, Woocommerce PDF Invoices & Packing Slips, Fattura elettronica, XML, Fatturazione elettronica, dot4all, HPOS
 Requires at least: 3.0.1
 Requires PHP: 7.0
@@ -32,9 +32,12 @@ Grazie al plugin è possibile:
 * Ricevere nel dettaglio ordine e via mail i campi C.F e P.IVA creati
 * Generare automaticamente la fattura/ricevuta lato amministrazione grazie al plugin WooCommerce PDF Invoices & Packing Slips.
 
-Credits & Copyrights: labdav • the plugin is a fork of WooCommerce PDF Invoices Italian Add-on
-Credits & Copyrights: dot4all • original plugin author
-Credits & Copyrights: enricodeleo • HPOS compatibility author
+Questo plugin è un fork di [WooCommerce P.IVA e Codice Fiscale per Italia](https://wordpress.org/plugins/woocommerce-piva-cf-invoice-ita/) originariamente sviluppato da [dot4all](https://dot4all.it), che purtroppo non supportava HPOS. La versione attuale è mantenuta da [Enrico Deleo](https://enricodeleo.com).
+
+Credits:
+* labdav - autore originale di WooCommerce PDF Invoices Italian Add-on
+* dot4all - autore del plugin WooCommerce P.IVA e Codice Fiscale per Italia
+* Enrico Deleo - autore della versione con supporto HPOS
 
 = Translations in your language =
 
