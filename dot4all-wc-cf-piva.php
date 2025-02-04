@@ -1,7 +1,7 @@
 /**
- * Plugin Name: WooCommerce P.IVA e Codice Fiscale per Italia
+ * Plugin Name: WooCommerce Fatturazione Italiana
  * Plugin URI: https://wordpress.org/plugins/woocommerce-piva-cf-invoice-ita/
- * Description: Rendi WooCommerce compatibile con il mercato italiano aggiungendo campi per Codice Fiscale, Partita IVA e Fatturazione Elettronica.
+ * Description: Plugin completo per la fatturazione elettronica italiana in WooCommerce. Gestisce Codice Fiscale, Partita IVA, PEC e Codice Destinatario.
  * Version: 2.2.0
  * Requires at least: 3.0.1
  * Requires PHP: 7.0
