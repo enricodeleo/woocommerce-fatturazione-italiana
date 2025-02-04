@@ -1,4 +1,4 @@
-=== WooCommerce P.IVA e Codice Fiscale per Italia ===
+=== WooCommerce Fatturazione Italiana ===
 Contributors: dot4all, enricodeleo
 Donate link: https://dot4all.it/prodotto/plugin-woocommerce-p-iva-e-codice-fiscale-per-italia-pro/
 Tags: woocommerce, e-commerce, partita iva, codice fiscale, woo, fattura PDF, ricevuta PDF, WooCommerce PDF, Woocommerce PDF Invoices & Packing Slips, Fattura elettronica, XML, Fatturazione elettronica, dot4all, HPOS
@@ -11,7 +11,7 @@ Stable tag: 2.2.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Rendi WooCommerce compatibile con il mercato italiano aggiungendo campi per Codice Fiscale, Partita IVA e Fatturazione Elettronica.
+Plugin completo per la fatturazione elettronica italiana in WooCommerce. Gestisce Codice Fiscale, Partita IVA, PEC e Codice Destinatario.
 
 == Description ==
 
