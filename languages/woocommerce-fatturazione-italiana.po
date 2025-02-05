@@ -3,11 +3,11 @@
 # https://wpml.org
 msgid ""
 msgstr ""
-"Project-Id-Version: .4l - woocommerce-piva-cf-invoice-ita\n"
-"POT-Creation-Date: 2019-06-03 14:55+0200\n"
+"Project-Id-Version: woocommerce-fatturazione-italiana\n"
+"POT-Creation-Date: 2025-02-05 04:11+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: david.silvestri <info@dot4all.it>\n"
+"Language-Team: hello@enricodeleo.com\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: dot4all-wc-cf-piva.php:108
+#: dot4all-wc-cf-piva.php:119
 #, php-format
 msgid ""
 "Woocommerce Fatturazione Italiana requires %sWooCommerce%s to be installed "
@@ -28,128 +28,128 @@ msgstr ""
 "attivato!"
 
 # wpml-name: 08a9a77c85fee63a862d53a4245bc13b
-#: dot4all-wc-cf-piva.php:123
+#: dot4all-wc-cf-piva.php:134
 msgid "Tax Identification Number is not correct"
 msgstr "Codice Fiscale non corretto"
 
 # wpml-name: d68642134639986f543af5e382dd275b
-#: dot4all-wc-cf-piva.php:124
+#: dot4all-wc-cf-piva.php:135
 msgid "VAT Number is not correct"
 msgstr "Numero di Partita IVA non corretto"
 
 # wpml-name: 1344ffd033347799af2c71c156fbd567
-#: dot4all-wc-cf-piva.php:221 dot4all-wc-cf-piva.php:222
-#: dot4all-wc-cf-piva.php:238 dot4all-wc-cf-piva.php:239
-#: dot4all-wc-cf-piva.php:405 dot4all-wc-cf-piva.php:418
-#: dot4all-wc-cf-piva.php:456 dot4all-wc-cf-piva.php:468
-#: dot4all-wc-cf-piva.php:615
+#: dot4all-wc-cf-piva.php:232 dot4all-wc-cf-piva.php:233
+#: dot4all-wc-cf-piva.php:249 dot4all-wc-cf-piva.php:250
+#: dot4all-wc-cf-piva.php:416 dot4all-wc-cf-piva.php:429
+#: dot4all-wc-cf-piva.php:467 dot4all-wc-cf-piva.php:479
+#: dot4all-wc-cf-piva.php:633
 msgid "Invoice type"
 msgstr "Tipologia fattura"
 
 # wpml-name: d6d7c5a3f130174a472f0768c912a796
-#: dot4all-wc-cf-piva.php:229 dot4all-wc-cf-piva.php:410
-#: dot4all-wc-cf-piva.php:459 dot4all-wc-cf-piva.php:642
+#: dot4all-wc-cf-piva.php:240 dot4all-wc-cf-piva.php:421
+#: dot4all-wc-cf-piva.php:470 dot4all-wc-cf-piva.php:660
 #: includes/class-wcpdf-integration.php:289 templates/pdf/Simple/invoice.php:11
 #: templates/pdf/Simple/receipt.php:21
 msgid "Receipt"
 msgstr "Ricevuta"
 
 # wpml-name: 466eadd40b3c10580e3ab4e8061161ce
-#: dot4all-wc-cf-piva.php:230 dot4all-wc-cf-piva.php:246
-#: dot4all-wc-cf-piva.php:411 dot4all-wc-cf-piva.php:423
-#: dot4all-wc-cf-piva.php:460 dot4all-wc-cf-piva.php:471
-#: dot4all-wc-cf-piva.php:634 templates/pdf/Simple/invoice.php:13
+#: dot4all-wc-cf-piva.php:241 dot4all-wc-cf-piva.php:257
+#: dot4all-wc-cf-piva.php:422 dot4all-wc-cf-piva.php:434
+#: dot4all-wc-cf-piva.php:471 dot4all-wc-cf-piva.php:482
+#: dot4all-wc-cf-piva.php:652 templates/pdf/Simple/invoice.php:13
 #: templates/pdf/Simple/invoice.php:26
 msgid "Invoice"
 msgstr "Azienda (Fattura)"
 
 # wpml-name: c19d063db2aa34442a13c1468e39191a
-#: dot4all-wc-cf-piva.php:231 dot4all-wc-cf-piva.php:247
-#: dot4all-wc-cf-piva.php:412 dot4all-wc-cf-piva.php:424
-#: dot4all-wc-cf-piva.php:461 dot4all-wc-cf-piva.php:472
-#: dot4all-wc-cf-piva.php:638
+#: dot4all-wc-cf-piva.php:242 dot4all-wc-cf-piva.php:258
+#: dot4all-wc-cf-piva.php:423 dot4all-wc-cf-piva.php:435
+#: dot4all-wc-cf-piva.php:472 dot4all-wc-cf-piva.php:483
+#: dot4all-wc-cf-piva.php:656
 msgid "Invoice with Fiscal Code"
 msgstr "Privato (Fattura)"
 
 # wpml-name: d34c080ddd0e40e9853c00ee8e313a6f
-#: dot4all-wc-cf-piva.php:232 dot4all-wc-cf-piva.php:248
-#: dot4all-wc-cf-piva.php:413 dot4all-wc-cf-piva.php:425
-#: dot4all-wc-cf-piva.php:462 dot4all-wc-cf-piva.php:473
-#: dot4all-wc-cf-piva.php:646
+#: dot4all-wc-cf-piva.php:243 dot4all-wc-cf-piva.php:259
+#: dot4all-wc-cf-piva.php:424 dot4all-wc-cf-piva.php:436
+#: dot4all-wc-cf-piva.php:473 dot4all-wc-cf-piva.php:484
+#: dot4all-wc-cf-piva.php:664
 msgid "Invoice with VAT number + Fiscal Code"
 msgstr "Libero Professionista (Fattura)"
 
 # wpml-name: 4cddab9be0b53049df6b5320bb03ff50
-#: dot4all-wc-cf-piva.php:266 dot4all-wc-cf-piva.php:430
-#: dot4all-wc-cf-piva.php:479
+#: dot4all-wc-cf-piva.php:277 dot4all-wc-cf-piva.php:441
+#: dot4all-wc-cf-piva.php:490
 msgid "Fiscal Code"
 msgstr "Codice Fiscale"
 
 # wpml-name: e7dac5fecf0b6ac74f1cdfd68b4beab9
-#: dot4all-wc-cf-piva.php:267
+#: dot4all-wc-cf-piva.php:278
 msgid "Please enter your Fiscal code"
 msgstr "Per favore inserisci il tuo Codice Fiscale"
 
 # wpml-name: 43183e955e3019bf7f8c942e016b7b13
-#: dot4all-wc-cf-piva.php:276 dot4all-wc-cf-piva.php:435
-#: dot4all-wc-cf-piva.php:559 dot4all-wc-cf-piva.php:565
+#: dot4all-wc-cf-piva.php:287 dot4all-wc-cf-piva.php:446
+#: dot4all-wc-cf-piva.php:577 dot4all-wc-cf-piva.php:583
 msgid "VAT"
 msgstr "P. IVA"
 
 # wpml-name: 6e0a0b2166bd963717e50afda27caec4
-#: dot4all-wc-cf-piva.php:277
+#: dot4all-wc-cf-piva.php:288
 msgid "Please enter your VAT number"
 msgstr "Per favore inserisci la tua P.IVA"
 
-#: dot4all-wc-cf-piva.php:286 dot4all-wc-cf-piva.php:440
-#: dot4all-wc-cf-piva.php:487 dot4all-wc-cf-piva.php:560
-#: dot4all-wc-cf-piva.php:566
+#: dot4all-wc-cf-piva.php:297 dot4all-wc-cf-piva.php:451
+#: dot4all-wc-cf-piva.php:498 dot4all-wc-cf-piva.php:578
+#: dot4all-wc-cf-piva.php:584
 msgid "PEC"
 msgstr "PEC"
 
 # wpml-name: e7dac5fecf0b6ac74f1cdfd68b4beab9
-#: dot4all-wc-cf-piva.php:287
+#: dot4all-wc-cf-piva.php:298
 msgid "Please enter your PEC Address"
 msgstr "Per favore inserisci il tuo Indirizzo PEC"
 
-#: dot4all-wc-cf-piva.php:295 dot4all-wc-cf-piva.php:445
-#: dot4all-wc-cf-piva.php:491 dot4all-wc-cf-piva.php:561
-#: dot4all-wc-cf-piva.php:567
+#: dot4all-wc-cf-piva.php:306 dot4all-wc-cf-piva.php:456
+#: dot4all-wc-cf-piva.php:502 dot4all-wc-cf-piva.php:579
+#: dot4all-wc-cf-piva.php:585
 msgid "PA CODE"
 msgstr "Codice Destinatario"
 
 # wpml-name: e7dac5fecf0b6ac74f1cdfd68b4beab9
-#: dot4all-wc-cf-piva.php:296
+#: dot4all-wc-cf-piva.php:307
 msgid "Please enter your PA code"
 msgstr "Per favore inserisci il tuo Codice Identificativo"
 
 # wpml-name: 1344ffd033347799af2c71c156fbd567
-#: dot4all-wc-cf-piva.php:306
+#: dot4all-wc-cf-piva.php:317
 msgid "Invoice Type"
 msgstr "Tipologia cliente (Fattura)"
 
-#: dot4all-wc-cf-piva.php:483
+#: dot4all-wc-cf-piva.php:494
 msgid "VAT number"
 msgstr "Partita IVA"
 
-#: dot4all-wc-cf-piva.php:505
+#: dot4all-wc-cf-piva.php:516
 #, php-format
 msgid "VAT Number %1$s is not correct"
 msgstr "Il numero della partita IVA %1$s non è corretto"
 
 # wpml-name: a625f57a95f84bd05dceab48689b3ca3
-#: dot4all-wc-cf-piva.php:512
+#: dot4all-wc-cf-piva.php:523
 #, php-format
 msgid "Tax Identification Number %1$s is not correct"
 msgstr "Il codice fiscale %1$s non è corretto"
 
 # wpml-name: 86cac5b46027da6bd2062dfc2409d128
-#: dot4all-wc-cf-piva.php:557 dot4all-wc-cf-piva.php:564
+#: dot4all-wc-cf-piva.php:575 dot4all-wc-cf-piva.php:582
 msgid "Fiscal code"
 msgstr "Codice Fiscale"
 
 # wpml-name: 0a0f0c93b34c6de0900357028e7f9f65
-#: dot4all-wc-cf-piva.php:615
+#: dot4all-wc-cf-piva.php:633
 msgid "Invoice or Receipt"
 msgstr "Tipologia Utente (Fattura o Ricevuta)"
 
@@ -261,6 +261,47 @@ msgstr ""
 "ricevuta più elevato, questo può portare alla creazione di numeri di "
 "ricevuta doppi!"
 
+#: includes/inc/class-admin.php:57
+msgid "Pantheon Sessions"
+msgstr ""
+
+#: includes/inc/class-admin.php:57
+msgid "Sessions"
+msgstr ""
+
+#: includes/inc/class-admin.php:84
+msgid "Cleared all sessions."
+msgstr ""
+
+#: includes/inc/class-admin.php:86
+msgid "Session cleared."
+msgstr ""
+
+#: includes/inc/class-list-table.php:46
+msgid "No sessions found."
+msgstr ""
+
+#: includes/inc/class-list-table.php:54
+msgid "Session ID"
+msgstr ""
+
+#: includes/inc/class-list-table.php:55
+msgid "User ID"
+msgstr ""
+
+# wpml-name: f0ac448067e6d21b969e1d30fbec181c
+#: includes/inc/class-list-table.php:56
+msgid "IP Address"
+msgstr "Indirizzo IP"
+
+#: includes/inc/class-list-table.php:57
+msgid "Last Active"
+msgstr ""
+
+#: includes/inc/class-list-table.php:58
+msgid "Data"
+msgstr ""
+
 # wpml-name: f0ac448067e6d21b969e1d30fbec181c
 #: templates/pdf/Simple/invoice.php:34 templates/pdf/Simple/receipt.php:29
 msgid "Billing Address:"
@@ -288,15 +329,11 @@ msgstr "Numero ordine:"
 
 # wpml-name: 8a5a12ba783d8cbb761974430d0a4d6a
 #: templates/pdf/Simple/invoice.php:69 templates/pdf/Simple/receipt.php:58
-#, fuzzy
-#| msgid "Order date:"
 msgid "Order Date:"
 msgstr "Data ordine:"
 
 # wpml-name: d36a6948b01d3a75ed99858e2bfea939
 #: templates/pdf/Simple/invoice.php:73 templates/pdf/Simple/receipt.php:62
-#, fuzzy
-#| msgid "Payment method:"
 msgid "Payment Method:"
 msgstr "Metodo pagamento:"
 
@@ -342,15 +379,11 @@ msgstr "Note del Cliente"
 
 # wpml-name: d6d7c5a3f130174a472f0768c912a796
 #: templates/pdf/Simple/receipt.php:9
-#, fuzzy
-#| msgid "Receipt"
 msgid "Receipt22222"
 msgstr "Ricevuta"
 
 # wpml-name: b42f39b81aa290f2b276f3f0e7a86723
 #: templates/pdf/Simple/receipt.php:49
-#, fuzzy
-#| msgid "Receipt date:"
 msgid "Receipt Date:"
 msgstr "Data ricevuta:"
 
