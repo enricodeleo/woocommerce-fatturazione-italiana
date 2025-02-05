@@ -1,0 +1,336 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-fatturazione-italiana\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bower_components\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: dist\n"
+
+#: dot4all-wc-cf-piva.php:119
+#, php-format
+msgid "Woocommerce Fatturazione Italiana requires %sWooCommerce%s to be installed and activated!"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:134
+msgid "Tax Identification Number is not correct"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:135
+msgid "VAT Number is not correct"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:232 dot4all-wc-cf-piva.php:233
+#: dot4all-wc-cf-piva.php:249 dot4all-wc-cf-piva.php:250
+#: dot4all-wc-cf-piva.php:416 dot4all-wc-cf-piva.php:429
+#: dot4all-wc-cf-piva.php:467 dot4all-wc-cf-piva.php:479
+#: dot4all-wc-cf-piva.php:633
+msgid "Invoice type"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:240 dot4all-wc-cf-piva.php:421
+#: dot4all-wc-cf-piva.php:470 dot4all-wc-cf-piva.php:660
+#: includes/class-wcpdf-integration.php:289 templates/pdf/Simple/invoice.php:11
+#: templates/pdf/Simple/receipt.php:21
+msgid "Receipt"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:241 dot4all-wc-cf-piva.php:257
+#: dot4all-wc-cf-piva.php:422 dot4all-wc-cf-piva.php:434
+#: dot4all-wc-cf-piva.php:471 dot4all-wc-cf-piva.php:482
+#: dot4all-wc-cf-piva.php:652 templates/pdf/Simple/invoice.php:13
+#: templates/pdf/Simple/invoice.php:26
+msgid "Invoice"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:242 dot4all-wc-cf-piva.php:258
+#: dot4all-wc-cf-piva.php:423 dot4all-wc-cf-piva.php:435
+#: dot4all-wc-cf-piva.php:472 dot4all-wc-cf-piva.php:483
+#: dot4all-wc-cf-piva.php:656
+msgid "Invoice with Fiscal Code"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:243 dot4all-wc-cf-piva.php:259
+#: dot4all-wc-cf-piva.php:424 dot4all-wc-cf-piva.php:436
+#: dot4all-wc-cf-piva.php:473 dot4all-wc-cf-piva.php:484
+#: dot4all-wc-cf-piva.php:664
+msgid "Invoice with VAT number + Fiscal Code"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:277 dot4all-wc-cf-piva.php:441
+#: dot4all-wc-cf-piva.php:490
+msgid "Fiscal Code"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:278
+msgid "Please enter your Fiscal code"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:287 dot4all-wc-cf-piva.php:446
+#: dot4all-wc-cf-piva.php:577 dot4all-wc-cf-piva.php:583
+msgid "VAT"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:288
+msgid "Please enter your VAT number"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:297 dot4all-wc-cf-piva.php:451
+#: dot4all-wc-cf-piva.php:498 dot4all-wc-cf-piva.php:578
+#: dot4all-wc-cf-piva.php:584
+msgid "PEC"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:298
+msgid "Please enter your PEC Address"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:306 dot4all-wc-cf-piva.php:456
+#: dot4all-wc-cf-piva.php:502 dot4all-wc-cf-piva.php:579
+#: dot4all-wc-cf-piva.php:585
+msgid "PA CODE"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:307
+msgid "Please enter your PA code"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:317
+msgid "Invoice Type"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:494
+msgid "VAT number"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:516
+#, php-format
+msgid "VAT Number %1$s is not correct"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:523
+#, php-format
+msgid "Tax Identification Number %1$s is not correct"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:575 dot4all-wc-cf-piva.php:582
+msgid "Fiscal code"
+msgstr ""
+
+#: dot4all-wc-cf-piva.php:633
+msgid "Invoice or Receipt"
+msgstr ""
+
+#: includes/class-wcpdf-integration.php:221
+#: includes/class-wcpdf-integration.php:222
+#: includes/class-wcpdf-integration.php:238
+msgid "PDF Receipt"
+msgstr ""
+
+#: includes/class-wcpdf-integration.php:251
+msgid "PDF Receipts"
+msgstr ""
+
+#: includes/class-wcpdf-integration.php:302
+msgid "Receipt number:"
+msgstr ""
+
+#: includes/class-wcpdf-integration.php:313
+msgid "Receipt date:"
+msgstr ""
+
+#: includes/class-wcpdf-integration.php:330
+msgid "Download Receipt (PDF)"
+msgstr ""
+
+#: includes/class-wcpdf-integration.php:368
+msgid "receipt"
+msgstr ""
+
+#: includes/class-wp-settings.php:54 includes/class-wp-settings.php:55
+msgid "WC CF e PIVA Italia"
+msgstr ""
+
+#: includes/class-wp-settings.php:206
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wp-settings.php:209
+msgid "General settings"
+msgstr ""
+
+#: includes/class-wp-settings.php:238
+msgid "Receipt prefix"
+msgstr ""
+
+#: includes/class-wp-settings.php:245
+msgid "Add receipt prefix. You can leave it empty if you won't prefix on receipt"
+msgstr ""
+
+#: includes/class-wp-settings.php:251
+msgid "Receipt number padding"
+msgstr ""
+
+#: includes/class-wp-settings.php:258
+msgid "You can add receipt number padding. Add 6 to show receipt number like 000001 or leave empty to show as 1"
+msgstr ""
+
+#: includes/class-wp-settings.php:266
+msgid "Disable for orders with all free products."
+msgstr ""
+
+#: includes/class-wp-settings.php:273
+msgid "<i>Check the flag for disable receipt for orders with all free products</i>"
+msgstr ""
+
+#: includes/class-wp-settings.php:275
+msgid "<i>If this is checked, the generation of receipt for orders with 0 total there aren't generated.</i>"
+msgstr ""
+
+#: includes/class-wp-settings.php:285
+msgid "Next receipt number"
+msgstr ""
+
+#: includes/class-wp-settings.php:292 includes/class-wp-settings.php:294
+msgid "This is the number that will be used on the next receipt that is created. By default, numbering starts from the 1 and increases for every new invoice. Note that if you override this and set it lower than the highest receipt number, this could create double receipt numbers!"
+msgstr ""
+
+#: includes/inc/class-admin.php:57 includes/inc/class-admin.php:81
+msgid "Pantheon Sessions"
+msgstr ""
+
+#: includes/inc/class-admin.php:57
+msgid "Sessions"
+msgstr ""
+
+#: includes/inc/class-admin.php:79
+msgid "Clear All"
+msgstr ""
+
+#: includes/inc/class-admin.php:84
+msgid "Cleared all sessions."
+msgstr ""
+
+#: includes/inc/class-admin.php:86
+msgid "Session cleared."
+msgstr ""
+
+#: includes/inc/class-admin.php:109
+msgid "You don't have permission to do this."
+msgstr ""
+
+#: includes/inc/class-admin.php:133
+msgid "Are you sure you want to clear all active sessions?"
+msgstr ""
+
+#: includes/inc/class-list-table.php:46
+msgid "No sessions found."
+msgstr ""
+
+#: includes/inc/class-list-table.php:54
+msgid "Session ID"
+msgstr ""
+
+#: includes/inc/class-list-table.php:55
+msgid "User ID"
+msgstr ""
+
+#: includes/inc/class-list-table.php:56
+msgid "IP Address"
+msgstr ""
+
+#: includes/inc/class-list-table.php:57
+msgid "Last Active"
+msgstr ""
+
+#: includes/inc/class-list-table.php:58
+msgid "Data"
+msgstr ""
+
+#: includes/inc/class-list-table.php:78
+msgid "Clear"
+msgstr ""
+
+#: includes/inc/class-list-table.php:83
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:34 templates/pdf/Simple/receipt.php:29
+msgid "Billing Address:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:45 templates/pdf/Simple/receipt.php:40
+msgid "Ship To:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:54
+msgid "Invoice Number:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:60
+msgid "Invoice Date:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:65 templates/pdf/Simple/receipt.php:54
+msgid "Order Number:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:69 templates/pdf/Simple/receipt.php:58
+msgid "Order Date:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:73 templates/pdf/Simple/receipt.php:62
+msgid "Payment Method:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:87 templates/pdf/Simple/receipt.php:76
+msgid "Product"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:88 templates/pdf/Simple/receipt.php:77
+msgid "Quantity"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:89 templates/pdf/Simple/receipt.php:78
+msgid "Price"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:96 templates/pdf/Simple/receipt.php:85
+msgid "Description"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:101 templates/pdf/Simple/receipt.php:90
+msgid "SKU"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:102 templates/pdf/Simple/receipt.php:91
+msgid "SKU:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:103 templates/pdf/Simple/receipt.php:92
+msgid "Weight:"
+msgstr ""
+
+#: templates/pdf/Simple/invoice.php:118 templates/pdf/Simple/receipt.php:106
+msgid "Customer Notes"
+msgstr ""
+
+#: templates/pdf/Simple/receipt.php:9
+msgid "Receipt22222"
+msgstr ""
+
+#: templates/pdf/Simple/receipt.php:49
+msgid "Receipt Date:"
+msgstr ""
