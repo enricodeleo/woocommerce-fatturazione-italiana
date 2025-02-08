@@ -37,6 +37,9 @@ class WC_Piva_Cf_Invoice_Ita {
 	public $version = '2.1.11';
 	public $regexCF = "/^[a-zA-Z]{6}\d{2}[a-zA-Z]{1}\d{2}[a-zA-Z]{1}\d{3}[a-zA-Z]{1}$/";
 	public $regexPIVA = "/^([0-9]{11})$/i";
+	public $receipt_prefix = '';
+	public $receipt_number_padding = 0;
+	public $set_receipt_for_zero_order = false;
 	protected static $instance = null;
 
 

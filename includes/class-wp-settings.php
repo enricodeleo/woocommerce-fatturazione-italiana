@@ -36,9 +36,9 @@ if ( ! class_exists( 'WC_Piva_Cf_Invoice_Ita_Setting' ) ) {
 			$this->options = wp_parse_args( $settings,$defaults );
 			//$parent->view_selected_choices = $this->options["_view_selected_choices"];
 			//$parent->receipt_label = $this->options["_receipt_label"];
-			$parent->receipt_prefix = $this->options["_receipt_prefix"];
-			$parent->receipt_number_padding = $this->options["_receipt_number_padding"];
-			$parent->set_receipt_for_zero_order = $this->options["_set_receipt_for_zero_order"]; 
+			$parent->receipt_prefix = isset($this->options["_receipt_prefix"]) ? $this->options["_receipt_prefix"] : '';
+			$parent->receipt_number_padding = isset($this->options["_receipt_number_padding"]) ? $this->options["_receipt_number_padding"] : 0;
+			$parent->set_receipt_for_zero_order = isset($this->options["_set_receipt_for_zero_order"]) ? $this->options["_set_receipt_for_zero_order"] : false;
 			//$parent->private_invoice_label = $this->options["_private_invoice_label"];
 			//$parent->company_invoice_label = $this->options["_company_invoice_label"];
 			//$parent->professionist_invoice_label = $this->options["_professionist_invoice_label"];
